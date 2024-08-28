@@ -1,14 +1,14 @@
  <center>
-     <h1>Xiaolong Zhang</h1>
+     <h1>888 Zhang</h1>
      <div>
          <span>
              <img src="assets/phone-solid.svg" width="18px">
-             13601005368
+             136**88888
          </span>
          ·
          <span>
              <img src="assets/envelope-solid.svg" width="18px">
-             xiaolongiam@gmail.com
+             ****m@gmail.com
          </span>
      </div>
  </center>
