@@ -1,33 +1,12 @@
- <center>
-     <h1>XXX</h1>
-     <div>
-         <span>
-             <img src="assets/phone-solid.svg" width="18px">
-             180XXXXXXXX
-         </span>
-         ·
-         <span>
-             <img src="assets/envelope-solid.svg" width="18px">
-             zhengyc101@163.com
-         </span>
-         ·
-         <span>
-             <img src="assets/github-brands.svg" width="18px">
-             <a href="https://github.com/CyC2018">CyC2018</a>
-         </span>
-         ·
-         <span>
-             <img src="assets/rss-solid.svg" width="18px">
-             <a href="#">My Blog</a>
-         </span>
-     </div>
- </center>
+
 
  ## <img src="assets/info-circle-solid.svg" width="30px"> Personal Information 
 
 - Name: Xiaolong Zhang
 - Date of Birth: 03/01/1980
 - Gender: Male
+- Mobile: 13601005368
+- Email: xiaolongiam@gmail.com
 
 ## <img src="assets/graduation-cap-solid.svg" width="30px"> Education summary
 
@@ -214,20 +193,18 @@
    - 300kt/y Polystyrene project
    - Intermediate tank farm project
 
-## <img src="assets/project-diagram-solid.svg" width="30px"> 项目经历
 
-- **XXXX 项目**
 
-  *使用到的技术*
+## <img src="assets/tools-solid.svg" width="30px"> Training
 
-  使用一两句话描述项目的主要功能，然后介绍自己在项目中的角色，解决了什么问题，使用什么方式解决，比别人的方法相比有什么优势（尽量用数据来说明）。
+- 07/2023~06/2024, Bureau Veritas, Shanghai, Leadership Training
+- 07/2019, Changeway, Beijing, Managing Successful Programmes (MSP)
+- 06/2019, Bureau Veritas, Shanghai, ISO9001 Lead Auditor (ISO9001-2015)
+- 03~04/2017, Changeway, Beijing, Managing Successful Projects with PRINCE2
+- 07~09/2017, Changeway, Beijing, Project Management Professional (PMP)
+- 11/2012, Bureau Veritas, Shanghai, ISO9001 Lead Auditor (ISO9001-2008)
+- 06/2005-07/2005, Shanghai association of supervision engineer, Shanghai, Equipment Supervision Engineer
 
-## <img src="assets/tools-solid.svg" width="30px"> 技能清单
-
-- ★★★ Java
-- ★★☆ C++、Python
-- ★★★ MySQL
-- ★★★ Redis
-- ★★☆ Spring
-- ★☆☆ RabbitMQ、ZooKeeper
-- ★★☆ JavaScript
+## <img src="assets/tools-solid.svg" width="30px"> Languages
+- English, Fluent
+- Chinese (Mandarin), Native language
