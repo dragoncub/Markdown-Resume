@@ -13,7 +13,7 @@
      </div>
  </center>
 
- ## <img src="assets/info-circle-solid.svg" width="30px"> Personal Information 
+## <img src="assets/info-circle-solid.svg" width="30px"> Personal Information 
 
 - Date of Birth: 03/01/1980
 - Gender: Male
@@ -213,7 +213,7 @@
 - 11/2012, Bureau Veritas, Shanghai, ISO9001 Lead Auditor (ISO9001-2008)
 - 06/2005-07/2005, Shanghai association of supervision engineer, Shanghai, Equipment Supervision Engineer
 
-## Languages
+## <img src="assets/info-circle-solid.svg" width="30px"> Languages
 
 - English, Fluent
 - Chinese (Mandarin), Native language
