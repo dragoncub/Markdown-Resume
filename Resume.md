@@ -34,9 +34,9 @@
 
 ## <img src="assets/tools-solid.svg" width="30px"> Professional Qualification
 - ISO 9001 Lead Auditor (2015 & 2008 edition)
-- Medium Project Management Professional (CSPM-3) ®  Cert. No.: CSPM-3-2024-937
+- Project Management Professional (CSPM-3) ®  Cert. No.: CSPM-3-2024-937
 - Project Management Professional (PMP)®   Cert. No.: 2083105
-- New Product Development Professional (NPDP)  
+- New Product Development Professional (NPDP)   Cert. No.: C135198
 - MSP® Practitioner Certificate in Programme Management    Cert. No.: GR637008495XZ
 - PRINCE2® Practitioner in Project Management Cert. No.:  GR634050659XZ
 - Equipment Supervision Engineer
@@ -206,6 +206,8 @@
 ## <img src="assets/graduation-cap-solid.svg" width="30px"> Training
 
 - 07/2023~06/2024, Bureau Veritas, Shanghai, Leadership Training
+- 09~11/2023, Changeway, Beijing, Project Management Professional (CSPM-3) 
+- 09~10/2020, Changeway, Beijing, New Product Development Professional (NPDP)  
 - 07/2019, Changeway, Beijing, Managing Successful Programmes (MSP)
 - 06/2019, Bureau Veritas, Shanghai, ISO9001 Lead Auditor (ISO9001-2015)
 - 03~04/2017, Changeway, Beijing, Managing Successful Projects with PRINCE2
