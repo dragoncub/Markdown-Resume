@@ -73,61 +73,147 @@
   - Tracing inspection punch items and correction, ensure the on time delivery.
   - Provide consulting service for supplier quality management, and project quality control procedure establish, etc.
 
-    **Project time:** 12/2012~16/2016
-    **Project: ** China Petroleum Pipeline Bureau Iraq project (Garraf, Badra, Rumaila, Halfya, West Qurna, etc.)
-    **Responsibilities:**
-    - Project Manager
-    - Manage and coordinate inspection activities
-    - Daily cooperation with client
-    - Money collection, etc.
+  ***Project Involved:***
 
+  **China Petroleum Pipeline Bureau Iraq project (Garraf, Badra, Rumaila, Halfya, West Qurna, etc.)  | 12/2012~16/2016**
+  - Project Manager
+  - Manage and coordinate inspection activities
+  - Daily cooperation with client
+  - Money collection, etc.
 
-Project time: 8/2014~12/2015
-Project: CNOOC Guangxi LNG Project - Phase 1
-Responsibilities:
-- Project Manager
-- Manage and coordinate inspection activities
-- Daily cooperation with client
-- Money collection, etc.
-- Supplier audit
+  **China Petroleum Pipeline Bureau Iraq project (Garraf, Badra, Rumaila, Halfya, West Qurna, etc.) | 12/2012~16/2016**
+  - Project Manager
+  - Manage and coordinate inspection activities
+  - Daily cooperation with client
+  - Money collection, etc.
 
+  **CNOOC Guangxi LNG Project - Phase 1 | 8/2014~12/2015**
+  - Project Manager
+  - Manage and coordinate inspection activities
+  - Daily cooperation with client
+  - Money collection, etc.
+  - Supplier audit
 
-Project time: 03/2013-07/2013
-Project: CNPC Yunnan Refinery project (Contractor: HQCEC)
-Responsibilities:
-- Lead auditor
-- As an auditor, carried out supplier audit for several big pressure vessel manufacturers.
+  **CNPC Yunnan Refinery project (Contractor: HQCEC) | 03/2013-07/2013**
+  - Lead auditor
+  - As an auditor, carried out supplier audit for several big pressure vessel manufacturers.
 
+  **Tianjin LNG Project - Phase 1 | 8/2012~10/2013**
+  - Project Manager
+  - Manage and coordinate inspection activities
+  - Daily cooperation with client
+  - Money collection, etc.
+  - Supplier audit
 
-Project time: 8/2012~10/2013
-Project: Tianjin LNG Project - Phase 1
-Responsibilities:
-- Project Manager
-- Manage and coordinate inspection activities
-- Daily cooperation with client
-- Money collection, etc.
-- Supplier audit
+  **Guangdong Zhuhai LNG Project - Phase 1 | 2/2012~10/2013**
+  - Project Manager
+  - Manage and coordinate inspection activities
+  - Negotiating with client
+  - Inspectors’ mobilization and demobilization
+  - Prepare timesheet and money collection, etc.
+  - Supplier audit.
 
+  **BEINEU-BOZOY-SHYMKENT Gas Pipeline Project | 10/2011-03/2012**
+  - Project Manager
+  - Manage and coordinate inspection activities in all pipe mills and coating manufacturers.
+  - Negotiation with client
+  - Inspectors’ mobilization and demobilization
+  - Prepare timesheet and money collection, etc.
 
-Project time: 2/2012~10/2013
-Project: Guangdong Zhuhai LNG Project - Phase 1
-Responsibilities:
-- Project Manager
-- Manage and coordinate inspection activities
-- Negotiating with client
-- Inspectors’ mobilization and demobilization
-- Prepare timesheet and money collection, etc.
-- Supplier audit.
+ - **WorleyParsons China (MaisonWorleyParsons)，Project Inspection Manager & Senior Inspector，08/2007-10/2011**
 
+   - Develop project inspection plan and budget plan 
+   - Review and approve fabrication procedures, such as ITP, PQR, WPS, test procedures, etc. 
+   - Participate and lead pre-inspection meeting for critical equipments 
+   - Process control of inspection activities 
+   - Development of inspection assignment with work instruction and budget hours. 
+   - Verify inspectors’ qualification. 
+   - Monitoring the manufacturing progress, coordination with procurement and site management to ensure on time delivery 
+   - Review and distribution inspection reports, IRC(Inspection Release Certificate), NCR(Non-conformance report), PIM(Pre-inspection report). 
+   - Controlling the actual cost of man hour and expense during the inspection execution. 
+   - Supplier audit 
+   - Inspection of all kinds of critical equipment. 
 
-Project time: 10/2011-03/2012
-Project: BEINEU-BOZOY-SHYMKENT Gas Pipeline Project
-Responsibilities:
-- Project Manager
-- Manage and coordinate inspection activities in all pipe mills and coating manufacturers.
-- Negotiation with client
-- Inspectors’ mobilization and demobilization
-- Prepare timesheet and money collection, etc.
+   ***Project Involved:***
+ 
+   **FMG Solomon Project | 08/2011-10/2011**
+   - Project Inspection Manager 
+   - Inspection of 67.Kg/m rails, Stacker & Reclaimer, etc.
+   
+   **Lynas Advanced Material Project | 04/2008-06/2011**
+   - Project Inspection Manager 
+   - Inspection of ball mill, including material inspection, welding, NDT, assembling and running tests.
+   - Inspection of rotary kilns, filter presses, centrifuges, crusher, etc.
+   
+   **Ma’aden Project | 04/2008-06/2011**
+   - Project Inspection Manager 
+   - Inspection of desalination MED vessels (evaporators, condensers, etc.)
+   
+   **J.M Huber Precipitated Silica Project | 01/2008-07/2008**
+   - Inspection Coordinator & Inspector
+   - Inspection of Filter Presses, Screw Conveyors, Plate Heat Exchangers, etc.
+   - Inspection of FRP tanks
+   - Inspection of heavy steel structures
+   
+   **Almatis Batch Mill Project | 01/2008-09/2008**
+   - Inspection Coordinator & Inspector
+   - Inspection of Packing Machine, etc.
+   
+   **Degussa Match Project | 01/2008-06/2008**
+   - Inspection of pressure vessels, heat exchangers, valves and pipe fittings
+   
+   **FMG Ore Cars Fabrication (Supplier: Zhuzhou Rolling Stock Works) | 01/2008-06/2008**
+   - Inspection of castings and cars, including welding, repairing & assembly inspection, blasting & painting check, etc.
+   
+   **BP Flare Project (Supplier: Jiangdu Junye Process Equipment Co., Ltd) | 08/2007-10/2007**
+   - Inspection of pressure vessels
+
+ - **SGS-CSTC Standards Technical Services Co., Ltd，Inspector，10/2005-08/2007**
+
+   Inspection of various industrial products against contractual specifications, like ASTM, ASME, EN, DIN, ISO, JIS and GB, etc.:
+   - Pressure equipment: pressure vessels, tanks, heat exchangers, reactors;-
+   - Pipes & pipe fittings, API 5CT casing & tubing, API 5L line pipes, ASTM standard steel pipes, flanges, etc.;
+   - Steel structures;
+   - Centrifugal Pumps;
+   - Cooling Towers;
+   - Crane (tower crane and travelling crane);
+   - etc.
+
+ - **Shanghai Jorson Petrochem Project Management Co.,Ltd.，Inspector，11/2004-10/2005**
+
+   - As a Project Manager, in charge of inspection activities for the projects.
+   - Third- party inspections for pressure equipment, served for many international clients.
+
+   ***Project Involved:***
+   
+   **Shanxi Wangqu Thermal Power Plant Project (EPC:Mitsui Babcock)**
+   - Inspection of more than 1000 tons steel structures (material: P12) at Beijing Silent Power Equipment Co., Ltd.
+   
+   **SINOPEC Engineering Incorporation**
+   - Inspection of more than 50 sets of pressure vessels, heat exchangers and reactors at Metallic Frame Factory of FCC.
+   
+   **SINOPEC Engineering Incorporation**
+   - Inspection of distillation towers, heat exchangers etc. at Machine Manufacturer of Fushun.
+
+ - **The First Construction Company of SINOPEC，Installation Engineer，08/2001-11/2004**
+
+   - Prepare installation plan for steel structures, piping and equipment.
+   - Prepare commissioning plan.
+   - Supervising and instructing of site construction.
+   - Prepare date reports, etc.
+
+   ***Project Involved:***
+   
+   **Sinopec Yanshan Petrochemical Co., Ltd.**
+   - 660kt/y ethylene expansion project,
+   - 100,000 m3 storage tank installation project,
+   - 2000m3 spherical tanks installation project
+   - Furnace piping replacing project for 100kt/y Ethylene Cracker Furnace
+   
+   **Shanghai SECCO 900KT/Y Ethylene Cracker Complex**
+   - 300kt/y Polystyrene project
+   - Intermediate tank farm project
+
 ## <img src="assets/project-diagram-solid.svg" width="30px"> 项目经历
 
 - **XXXX 项目**
