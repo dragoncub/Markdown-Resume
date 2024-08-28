@@ -31,7 +31,7 @@
 - PRINCE2® Practitioner in Project Management Cert. No.:  GR634050659XZ
 - Equipment Supervision Engineer
 
-## <img src="assets/briefcase-solid.svg" width="30px"> Work Experience
+## <img src="assets/project-diagram-solid.svg" width="30px"> Work Experience
 - **Bureau Veritas China, Oil, Gas & Process，BU Manager-Onshore Oil& Gas (ONI BU)，1/2015-Present**
   - Drive profit & loss accountability for Onshore BU (ONI).
   - Develop BU business plan, targeted action and profitability.
