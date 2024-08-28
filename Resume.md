@@ -1,6 +1,6 @@
 
 
- ## <img src="assets/info-circle-solid.svg" width="30px"> Personal Information 
+ ## Personal Information 
 
 - Name: Xiaolong Zhang
 - Date of Birth: 03/01/1980
@@ -8,12 +8,12 @@
 - Mobile: 13601005368
 - Email: xiaolongiam@gmail.com
 
-## <img src="assets/graduation-cap-solid.svg" width="30px"> Education summary
+##  Education summary
 
 - Master-North China Electric Power University | Master of Business Administration(MBA) | 09/2013-03/2016
 - Bachelor-Beijing Institute of Petrochemical Technology | Chemical Equipment and Machinery | 09/1997-07/2001
 
-## <img src="assets/briefcase-solid.svg" width="30px"> Technical Competence
+##  Technical Competence
 
 - Experienced Business Unit Manager with a demonstrated history of working in the Oil & Gas industry. 
 - Proven track record in business management and operations.
@@ -22,7 +22,7 @@
 - ISO 9001 Lead Auditor, experienced in supplier audits and assessments.
 - Qualified equipment supervision engineer.
 
-## <img src="assets/briefcase-solid.svg" width="30px"> Professional Qualification
+##  Professional Qualification
 - ISO 9001 Lead Auditor (2015 & 2008 edition)
 - Medium Project Management Professional (CSPM-3) ®  Cert. No.: CSPM-3-2024-937
 - Project Management Professional (PMP)®   Cert. No.: 2083105
@@ -31,7 +31,7 @@
 - PRINCE2® Practitioner in Project Management Cert. No.:  GR634050659XZ
 - Equipment Supervision Engineer
 
-## <img src="assets/project-diagram-solid.svg" width="30px"> Work Experience
+##  Work Experience
 - **Bureau Veritas China, Oil, Gas & Process，BU Manager-Onshore Oil& Gas (ONI BU)，1/2015-Present**
   - Drive profit & loss accountability for Onshore BU (ONI).
   - Develop BU business plan, targeted action and profitability.
@@ -183,19 +183,17 @@
 
    ***Project Involved:***
    
-   **Sinopec Yanshan Petrochemical Co., Ltd.**
+   **_Sinopec Yanshan Petrochemical Co., Ltd._**
    - 660kt/y ethylene expansion project,
    - 100,000 m3 storage tank installation project,
    - 2000m3 spherical tanks installation project
    - Furnace piping replacing project for 100kt/y Ethylene Cracker Furnace
    
-   **Shanghai SECCO 900KT/Y Ethylene Cracker Complex**
+   **_Shanghai SECCO 900KT/Y Ethylene Cracker Complex_**
    - 300kt/y Polystyrene project
    - Intermediate tank farm project
 
-
-
-## <img src="assets/tools-solid.svg" width="30px"> Training
+## Training
 
 - 07/2023~06/2024, Bureau Veritas, Shanghai, Leadership Training
 - 07/2019, Changeway, Beijing, Managing Successful Programmes (MSP)
@@ -205,6 +203,7 @@
 - 11/2012, Bureau Veritas, Shanghai, ISO9001 Lead Auditor (ISO9001-2008)
 - 06/2005-07/2005, Shanghai association of supervision engineer, Shanghai, Equipment Supervision Engineer
 
-## <img src="assets/tools-solid.svg" width="30px"> Languages
+## Languages
+
 - English, Fluent
 - Chinese (Mandarin), Native language
