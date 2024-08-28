@@ -1,4 +1,4 @@
-<center>
+ <center>
      <h1>Xiaolong Zhang</h1>
      <div>
          <span>
@@ -11,22 +11,19 @@
              xiaolongiam@gmail.com
          </span>
      </div>
-</center>
+ </center>
 
- ## Personal Information 
+ ## <img src="assets/info-circle-solid.svg" width="30px"> Personal Information 
 
-- Name: Xiaolong Zhang
 - Date of Birth: 03/01/1980
 - Gender: Male
-- Mobile: 13601005368
-- Email: xiaolongiam@gmail.com
 
-##  Education summary
+## <img src="assets/graduation-cap-solid.svg" width="30px"> Education summary
 
 - Master-North China Electric Power University | Master of Business Administration(MBA) | 09/2013-03/2016
 - Bachelor-Beijing Institute of Petrochemical Technology | Chemical Equipment and Machinery | 09/1997-07/2001
 
-##  Technical Competence
+## <img src="assets/briefcase-solid.svg" width="30px"> Technical Competence
 
 - Experienced Business Unit Manager with a demonstrated history of working in the Oil & Gas industry. 
 - Proven track record in business management and operations.
@@ -35,7 +32,7 @@
 - ISO 9001 Lead Auditor, experienced in supplier audits and assessments.
 - Qualified equipment supervision engineer.
 
-##  Professional Qualification
+## <img src="assets/tools-solid.svg" width="30px"> Professional Qualification
 - ISO 9001 Lead Auditor (2015 & 2008 edition)
 - Medium Project Management Professional (CSPM-3) ®  Cert. No.: CSPM-3-2024-937
 - Project Management Professional (PMP)®   Cert. No.: 2083105
@@ -44,7 +41,7 @@
 - PRINCE2® Practitioner in Project Management Cert. No.:  GR634050659XZ
 - Equipment Supervision Engineer
 
-##  Work Experience
+## <img src="assets/project-diagram-solid.svg" width="30px"> Work Experience
 - **Bureau Veritas China, Oil, Gas & Process，BU Manager-Onshore Oil& Gas (ONI BU)，1/2015-Present**
   - Drive profit & loss accountability for Onshore BU (ONI).
   - Develop BU business plan, targeted action and profitability.
@@ -206,7 +203,7 @@
    - 300kt/y Polystyrene project
    - Intermediate tank farm project
 
-## Training
+## <img src="assets/graduation-cap-solid.svg" width="30px"> Training
 
 - 07/2023~06/2024, Bureau Veritas, Shanghai, Leadership Training
 - 07/2019, Changeway, Beijing, Managing Successful Programmes (MSP)
