@@ -54,37 +54,37 @@
 
   ***Project Involved:***
 
-  **China Petroleum Pipeline Bureau Iraq project (Garraf, Badra, Rumaila, Halfya, West Qurna, etc.)  | 12/2012~16/2016**
+  ***China Petroleum Pipeline Bureau Iraq project (Garraf, Badra, Rumaila, Halfya, West Qurna, etc.)  | 12/2012~16/2016***
   - Project Manager
   - Manage and coordinate inspection activities
   - Daily cooperation with client
   - Money collection, etc.
 
-  **China Petroleum Pipeline Bureau Iraq project (Garraf, Badra, Rumaila, Halfya, West Qurna, etc.) | 12/2012~16/2016**
+  ***China Petroleum Pipeline Bureau Iraq project (Garraf, Badra, Rumaila, Halfya, West Qurna, etc.) | 12/2012~16/2016***
   - Project Manager
   - Manage and coordinate inspection activities
   - Daily cooperation with client
   - Money collection, etc.
 
-  **CNOOC Guangxi LNG Project - Phase 1 | 8/2014~12/2015**
+  ***CNOOC Guangxi LNG Project - Phase 1 | 8/2014~12/2015***
   - Project Manager
   - Manage and coordinate inspection activities
   - Daily cooperation with client
   - Money collection, etc.
   - Supplier audit
 
-  **CNPC Yunnan Refinery project (Contractor: HQCEC) | 03/2013-07/2013**
+  ***CNPC Yunnan Refinery project (Contractor: HQCEC) | 03/2013-07/2013***
   - Lead auditor
   - As an auditor, carried out supplier audit for several big pressure vessel manufacturers.
 
-  **Tianjin LNG Project - Phase 1 | 8/2012~10/2013**
+  ***Tianjin LNG Project - Phase 1 | 8/2012~10/2013***
   - Project Manager
   - Manage and coordinate inspection activities
   - Daily cooperation with client
   - Money collection, etc.
   - Supplier audit
 
-  **Guangdong Zhuhai LNG Project - Phase 1 | 2/2012~10/2013**
+  ***Guangdong Zhuhai LNG Project - Phase 1 | 2/2012~10/2013***
   - Project Manager
   - Manage and coordinate inspection activities
   - Negotiating with client
@@ -92,7 +92,7 @@
   - Prepare timesheet and money collection, etc.
   - Supplier audit.
 
-  **BEINEU-BOZOY-SHYMKENT Gas Pipeline Project | 10/2011-03/2012**
+  ***BEINEU-BOZOY-SHYMKENT Gas Pipeline Project | 10/2011-03/2012***
   - Project Manager
   - Manage and coordinate inspection activities in all pipe mills and coating manufacturers.
   - Negotiation with client
@@ -115,36 +115,36 @@
 
    ***Project Involved:***
  
-   **FMG Solomon Project | 08/2011-10/2011**
+   ***FMG Solomon Project | 08/2011-10/2011***
    - Project Inspection Manager 
    - Inspection of 67.Kg/m rails, Stacker & Reclaimer, etc.
    
-   **Lynas Advanced Material Project | 04/2008-06/2011**
+   ***Lynas Advanced Material Project | 04/2008-06/2011***
    - Project Inspection Manager 
    - Inspection of ball mill, including material inspection, welding, NDT, assembling and running tests.
    - Inspection of rotary kilns, filter presses, centrifuges, crusher, etc.
    
-   **Ma’aden Project | 04/2008-06/2011**
+   ***Ma’aden Project | 04/2008-06/2011***
    - Project Inspection Manager 
    - Inspection of desalination MED vessels (evaporators, condensers, etc.)
    
-   **J.M Huber Precipitated Silica Project | 01/2008-07/2008**
+   ***J.M Huber Precipitated Silica Project | 01/2008-07/2008***
    - Inspection Coordinator & Inspector
    - Inspection of Filter Presses, Screw Conveyors, Plate Heat Exchangers, etc.
    - Inspection of FRP tanks
    - Inspection of heavy steel structures
    
-   **Almatis Batch Mill Project | 01/2008-09/2008**
+   ***Almatis Batch Mill Project | 01/2008-09/2008***
    - Inspection Coordinator & Inspector
    - Inspection of Packing Machine, etc.
    
-   **Degussa Match Project | 01/2008-06/2008**
+   ***Degussa Match Project | 01/2008-06/2008***
    - Inspection of pressure vessels, heat exchangers, valves and pipe fittings
    
-   **FMG Ore Cars Fabrication (Supplier: Zhuzhou Rolling Stock Works) | 01/2008-06/2008**
+   ***FMG Ore Cars Fabrication (Supplier: Zhuzhou Rolling Stock Works) | 01/2008-06/2008***
    - Inspection of castings and cars, including welding, repairing & assembly inspection, blasting & painting check, etc.
    
-   **BP Flare Project (Supplier: Jiangdu Junye Process Equipment Co., Ltd) | 08/2007-10/2007**
+   ***BP Flare Project (Supplier: Jiangdu Junye Process Equipment Co., Ltd) | 08/2007-10/2007***
    - Inspection of pressure vessels
 
  - **SGS-CSTC Standards Technical Services Co., Ltd，Inspector，10/2005-08/2007**
@@ -165,13 +165,13 @@
 
    ***Project Involved:***
    
-   **Shanxi Wangqu Thermal Power Plant Project (EPC:Mitsui Babcock)**
+   ***Shanxi Wangqu Thermal Power Plant Project (EPC:Mitsui Babcock)***
    - Inspection of more than 1000 tons steel structures (material: P12) at Beijing Silent Power Equipment Co., Ltd.
    
-   **SINOPEC Engineering Incorporation**
+   ***SINOPEC Engineering Incorporation***
    - Inspection of more than 50 sets of pressure vessels, heat exchangers and reactors at Metallic Frame Factory of FCC.
    
-   **SINOPEC Engineering Incorporation**
+   ***SINOPEC Engineering Incorporation***
    - Inspection of distillation towers, heat exchangers etc. at Machine Manufacturer of Fushun.
 
  - **The First Construction Company of SINOPEC，Installation Engineer，08/2001-11/2004**
@@ -183,13 +183,13 @@
 
    ***Project Involved:***
    
-   **_Sinopec Yanshan Petrochemical Co., Ltd._**
+   ***_Sinopec Yanshan Petrochemical Co., Ltd._***
    - 660kt/y ethylene expansion project,
    - 100,000 m3 storage tank installation project,
    - 2000m3 spherical tanks installation project
    - Furnace piping replacing project for 100kt/y Ethylene Cracker Furnace
    
-   **_Shanghai SECCO 900KT/Y Ethylene Cracker Complex_**
+   ***_Shanghai SECCO 900KT/Y Ethylene Cracker Complex_***
    - 300kt/y Polystyrene project
    - Intermediate tank farm project
 
